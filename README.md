@@ -10,7 +10,7 @@
 
 <b>⚙ Backend:</b> <br/>
 <span>― Node.js / Express.js</span> <br/>
-<span>― MongoDB / Mongoose</span> <br/>
+<span>― PostgreSQL / MongoDB </span> <br/>
 <span>― REST Api</span> <br/>
 
 <b>✍ Другие скиллы:</b> <br/>
