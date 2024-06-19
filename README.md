@@ -11,6 +11,7 @@
 <b>⚙ Backend:</b> <br/>
 <span>― Node.js / Express.js</span> <br/>
 <span>― PostgreSQL / MongoDB </span> <br/>
+<span>― TypeORM / Mongoose </span> <br/>
 <span>― REST Api</span> <br/>
 
 <b>✍ Другие скиллы:</b> <br/>
