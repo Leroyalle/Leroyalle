@@ -5,6 +5,7 @@
 <span>― React / Next.js</span> <br/>
 <span>― Redux Toolkit / Zustand</span> <br/>
 <span>― SCSS / CSS modules</span> <br/>
+<span>― Material UI</span> <br/>
 <span>― Webpack / Optimized Performance / Code Splitting / Lazy Loading</span> <br/>
 <span>― Prettier</span> <br/>
 
