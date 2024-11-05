@@ -1,5 +1,3 @@
-## Обо мне
-
 <b>🚀 Frontend:</b> <br/>
 <span>― TypeScript / JavaScript</span> <br/>
 <span>― Next.js / React</span> <br/>
