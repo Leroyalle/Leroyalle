@@ -7,7 +7,7 @@
 <span>― React Hook Form</span> <br/>
 <span>― SSR / Optimized Performance / Code Splitting / Lazy Loading</span> <br/>
 <span>― ESLint / Prettier</span> <br/>
-<span>― WebSockets / Socket.IO</span> <br/>
+<span>― WebSocket / Socket.IO</span> <br/>
 
 <b>⚙ Backend:</b> <br/>
 <span>― Express.js</span> <br/>
