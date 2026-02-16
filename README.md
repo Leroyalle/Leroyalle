@@ -7,11 +7,13 @@
 <span>― Vitest / Jest / Testing Library / Playwright</span> <br/>
 
 <b>⚙ Backend:</b> <br/>
-<span>― Nest.js / Express</span> <br/>
-<span>― Prisma / Mongoose / TypeORM</span> <br/>
-<span>― Redis</span> <br/>
+<span>― Nest.js / Hono / Express</span> <br/>
+<span>― Drizzle / Prisma / Mongoose / TypeORM</span> <br/>
 <span>― Grammy</span> <br/>
+<span>― Redis</span> <br/>
+<span>― BullMQ</span> <br/>
 
 <b>🗽 Common:</b> <br/>
 <span>― WebSocket / Socket IO</span> <br/>
 <span>― GraphQL </span> <br/>
+<span>― Meilisearch </span> <br/>
