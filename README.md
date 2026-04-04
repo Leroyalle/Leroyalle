@@ -1,19 +1,20 @@
-<b>🚀 Frontend:</b> <br/>
-<span>― Next.js / React</span> <br/>
-<span>― MobX / Effector / Redux Toolkit / Zustand / Jotai</span> <br/>
-<span>― Apollo Client / Tanstack Query / RTK Query</span> <br/>
-<span>― Tailwind / SCSS / CSS modules</span> <br/>
-<span>― Phaser / Fabric</span> <br/>
-<span>― Vitest / Jest / Testing Library / Playwright</span> <br/>
+> Real-time backends, game systems, web applications.
 
-<b>⚙ Backend:</b> <br/>
-<span>― Nest.js / Hono / Express</span> <br/>
-<span>― Drizzle / Prisma / Mongoose / TypeORM</span> <br/>
-<span>― Grammy</span> <br/>
-<span>― Redis</span> <br/>
-<span>― BullMQ</span> <br/>
+## Backend
 
-<b>🗽 Common:</b> <br/>
-<span>― WebSocket / Socket IO</span> <br/>
-<span>― GraphQL </span> <br/>
-<span>― Meilisearch </span> <br/>
+- NestJS / Hono / Express
+- Redis / PostgreSQL / Meilisearch
+- Drizzle / Prisma / Mongoose / TypeORM
+- WebSockets / Socket.IO / GraphQL / REST
+- RabbitMQ / BullMQ
+- DDD / CQRS
+- AWS S3 / Grammy
+
+## Frontend
+
+- Next.js / React / TypeScript
+- TanStack Query / RTK Query / Apollo Client
+- MobX / Effector / Redux Toolkit / Zustand / Jotai
+- Tailwind / SCSS / CSS Modules
+- Phaser / Fabric.js
+- Vitest / Jest / Testing Library / Playwright
