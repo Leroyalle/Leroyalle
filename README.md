@@ -5,7 +5,7 @@
 - NestJS / Hono / Express
 - Redis / PostgreSQL / Meilisearch
 - Drizzle / Prisma / Mongoose / TypeORM
-- WebSockets / Socket.IO / GraphQL / REST
+- WebSockets / GraphQL / REST
 - RabbitMQ / BullMQ
 - DDD / CQRS
 - AWS S3 / Grammy
